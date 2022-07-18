@@ -1,0 +1,3 @@
+python-certifi source: no-debian-changes
+python-certifi source: source-contains-prebuilt-windows-binary
+python-certifi source: source-package-encodes-python-version
